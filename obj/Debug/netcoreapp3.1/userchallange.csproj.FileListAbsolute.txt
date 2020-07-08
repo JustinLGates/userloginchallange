@@ -1,0 +1,13 @@
+C:\codeworkssource\codeworks\userchallange\bin\Debug\netcoreapp3.1\userchallange.exe
+C:\codeworkssource\codeworks\userchallange\bin\Debug\netcoreapp3.1\userchallange.deps.json
+C:\codeworkssource\codeworks\userchallange\bin\Debug\netcoreapp3.1\userchallange.runtimeconfig.json
+C:\codeworkssource\codeworks\userchallange\bin\Debug\netcoreapp3.1\userchallange.runtimeconfig.dev.json
+C:\codeworkssource\codeworks\userchallange\bin\Debug\netcoreapp3.1\userchallange.dll
+C:\codeworkssource\codeworks\userchallange\bin\Debug\netcoreapp3.1\userchallange.pdb
+C:\codeworkssource\codeworks\userchallange\obj\Debug\netcoreapp3.1\userchallange.csprojAssemblyReference.cache
+C:\codeworkssource\codeworks\userchallange\obj\Debug\netcoreapp3.1\userchallange.AssemblyInfoInputs.cache
+C:\codeworkssource\codeworks\userchallange\obj\Debug\netcoreapp3.1\userchallange.AssemblyInfo.cs
+C:\codeworkssource\codeworks\userchallange\obj\Debug\netcoreapp3.1\userchallange.csproj.CoreCompileInputs.cache
+C:\codeworkssource\codeworks\userchallange\obj\Debug\netcoreapp3.1\userchallange.dll
+C:\codeworkssource\codeworks\userchallange\obj\Debug\netcoreapp3.1\userchallange.pdb
+C:\codeworkssource\codeworks\userchallange\obj\Debug\netcoreapp3.1\userchallange.genruntimeconfig.cache
